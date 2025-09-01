@@ -95,4 +95,3 @@ This project is licensed under the MIT License.
 
 ---
 
-👉 Do you want me to also **add images/screenshots** (like webcam output + console output) in the README for a cooler GitHub repo?
